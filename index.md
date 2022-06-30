@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Portfólio - Everton Grellert
 
-You can use the [editor on GitHub](https://github.com/egrellert/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Olá, seja bem-vinda(o) ao meu portfólio. Aqui demonstro um pouco do poder dos dados nos negócios a partir de alguns projetos com Power BI.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Acesse meu [LinkedIn](https://www.linkedin.com/in/everton-grellert/) para conhecer um pouco mais sobre mim.
 
 ### Markdown
 
